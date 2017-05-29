@@ -8,12 +8,12 @@ published: false
 
 As we explained in the [post on the Hacks blog](https://hacks.mozilla.org/2017/04/simplifying-firefox-release-channels/) and on [this blog](http://release.mozilla.org/firefox/release/2017/04/17/Dawn-Project-FAQ.html), we have been working at changing the release mechanism of Firefox.
 
-We are now ready migrate the aurora population for Firefox Desktop and Android.
+We are now ready to migrate the aurora population for Firefox Desktop and Android.
 
 # Desktop
 
-The aurora population will be migrated to the beta channel. Users will keep the Developer Edition branding and specifities. Updates just started to be proposed to users.
-Either the current developer edition instance of Firefox will be automatically updated within a few days, any user can force the update by opening the About window of Firefox.
+The aurora population will be migrated to the beta channel. Users will keep the Developer Edition branding and specifities. Updates are now being proposed to users.
+Current developer edition instance of Firefox will be automatically updated within a few days. Users can also trigger an update by opening the About window of Firefox.
 From the technical perspective, we are rebuilding the regular beta builds to generate the beta developer edition version. They are built from the same code.
 
 
